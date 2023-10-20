@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://example.com" uri="GerenciamentoJogos.ttl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1697758867984" name="http://www.semanticweb.org/kenne/ontologies/2023/9/GerenciamentoJogos/" uri="GerenciamentoJogos.rdf"/>
+    </group>
+</catalog>
